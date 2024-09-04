@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calcularComissaoVendasFuncionario", "calcularComissaoVendasFuncionario.csproj", "{2B7D6952-FCCC-435A-9929-49F5DD8B4CFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calcularComissaoVendasFuncionario", "calcularComissaoVendasFuncionario.csproj", "{7A327921-8C79-4A71-A010-9EB26E84F5D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2B7D6952-FCCC-435A-9929-49F5DD8B4CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2B7D6952-FCCC-435A-9929-49F5DD8B4CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2B7D6952-FCCC-435A-9929-49F5DD8B4CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2B7D6952-FCCC-435A-9929-49F5DD8B4CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A327921-8C79-4A71-A010-9EB26E84F5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A327921-8C79-4A71-A010-9EB26E84F5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A327921-8C79-4A71-A010-9EB26E84F5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A327921-8C79-4A71-A010-9EB26E84F5D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
